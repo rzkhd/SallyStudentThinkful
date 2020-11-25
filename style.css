@@ -1,0 +1,35 @@
+body{
+    margin: 75px auto;
+    width:873px;
+    text-align: center;
+}
+
+header{
+    background-color:#EFEFEF;
+    padding:5px;
+    border:2px solid black;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+
+img{
+    margin: 20px auto;
+    height: 260px;
+    padding:5px;
+    border:2px solid white;
+}
+
+article{
+    background-color: black;
+    padding:80px;
+}
+
+article * {
+    color:white;
+}
